@@ -1,0 +1,24 @@
+{
+  "name": "scrollium",
+  "version": "0.1.0",
+  "description": "Fast terminal-style text display manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Shepard <matt@iceddev.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "code": "^1.5.0",
+    "lab": "^5.16.0",
+    "webpack": "^1.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2fast2fourier/scrollium"
+  },
+  "bugs": {
+    "url": "https://github.com/2fast2fourier/scrollium/issues"
+  },
+  "homepage": "https://github.com/2fast2fourier/scrollium"
+}
